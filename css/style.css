@@ -125,7 +125,7 @@ a:hover {
     margin-right: auto;
     width: 40px;
     opacity: .7;
-    padding-top: 1px;
+    padding-top: 10%;
 }
 
 .arrow:hover {
@@ -160,9 +160,29 @@ a:hover {
   padding-top: 200px;
   padding-bottom: 30px;
 }
+/* Copy This for portfolio add-ons */
+.port1 {
+  float: left;
+  width: 49%;
+  height: 290px;
+  padding: 2px;
+}
+
+.port1 p{
+  color: black;
+}
+.ec {
+width: 98%;
+padding: .5%;
+border: 2px solid grey;
+}
+
+.ec:hover {
+  opacity: .3;
+}
 
 .contact {
-  padding-top: 250px;
+  padding-top: 30%;
   padding-bottom: 50px;
 }
 
