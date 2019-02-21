@@ -162,10 +162,10 @@ a:hover {
 }
 /* Copy This for portfolio add-ons */
 .port1 {
-  float: left;
+/*  left; */
+  padding-left: 300px;
   width: 49%;
   height: 290px;
-  padding: 2px;
 }
 
 .port1 p{
